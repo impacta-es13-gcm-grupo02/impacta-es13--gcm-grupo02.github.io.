@@ -1,5 +1,5 @@
 # impacta-es13--gcm-grupo02.github.io.
-Alexandre Bitencourt
+Alexandre
 
 Alisson
 
